@@ -1,7 +1,5 @@
 import React from 'react';
 
-//**************DO NOT EDIT ANY CODE BEYOND THIS POINT**************//
-
 const Smurf = (props)=> {
     const { smurf } = props;
     
